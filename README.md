@@ -1,4 +1,4 @@
-## Hi there 👋
+## 指尖英雄隐私政策
 
 <!--
 **IdleNing/IdleNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
